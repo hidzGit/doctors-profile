@@ -99,14 +99,14 @@ p {
 .can {
     margin-right: 1rem;
     padding: 10px;
-    background-color:rgb(236, 236, 252)
-    
+    background-color:rgb(236, 236, 252);
+    border-radius: 5x;
 }
 .resch {
     margin-left: 1rem;
     padding: 10px;
     background-color:rgb(236, 236, 252);
-    border-radius: 1x;
+    border-radius: 5x;
 }
 .exp, .apt{
     margin-top:20px ;
@@ -135,7 +135,7 @@ p {
 }   
 section {
     text-align: center;
-    margin-top: 4rem;
+    margin-top: 6rem;
 }
 p {
     margin: 0rem auto 1rem auto ;
@@ -159,5 +159,7 @@ p {
 .exp, .apt{
     margin-top: 0px ;
 }
-
-  }
+.foot {
+    margin: 3rem;
+    text-align: center;
+}.
